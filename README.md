@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a data analyst at ICICI Bank with 3years of hands-on experience working on real business data.<br>I have a strong command of SQL, PySpark, and machine learning, and I regularly use data analytics tools to extract insights, automate reporting, and support decision-making. <br> I am currently expanding my skill set by learning Generative AI to stay relevant and move advanced, future-facing data role 
+I am a data analyst with 3 years of hands-on experience working on real business data.<br>I have a strong command of SQL, PySpark, and machine learning, and I regularly use data analytics tools to extract insights, automate reporting, and support decision-making. <br> I am currently expanding my skill set by learning Generative AI to stay relevant and move advanced, future-facing data role 
 
 
 ## 🌐 Socials:
