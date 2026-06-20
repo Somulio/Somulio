@@ -32,5 +32,53 @@ Basel/IFRS 9-aligned probability of default scorecard — WOE/IV binning (`optbi
 [![](https://visitcount.itsvg.in/api?id=Somulio&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
-
+# 📂 Projects
+ 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 PD Scorecard Pipeline</h3>
+      <p>Basel/IFRS 9-aligned probability of default scorecard. WOE/IV binning via <code>optbinning</code>, logistic regression with XGBoost challenger, PDO scaling, PSI monitoring, IFRS 9 ECL staging, CI/CD via GitHub Actions.</p>
+      <img src="your-repo-link-here/raw/main/results/roc_curve.png" width="100%" alt="ROC Curve"/>
+      <br/>
+      <img src="https://img.shields.io/badge/ROC--AUC-0.86-1E3A5F?style=flat-square"/>
+      <img src="https://img.shields.io/badge/KS-0.69-2E5266?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Gini-0.76-31572C?style=flat-square"/>
+      <br/><br/>
+      <a href="your-repo-link-here"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📉 IFRS 9 ECL Staging Engine</h3>
+      <p>Expected Credit Loss model following Ind AS 109 / IFRS 9 conventions. Stage classification (1/2/3), lifetime PD estimation, loss forecasting, and portfolio-level ECL aggregation.</p>
+      <img src="your-repo-link-here/raw/main/results/ecl_staging.png" width="100%" alt="ECL Staging"/>
+      <br/>
+      <img src="https://img.shields.io/badge/ECL-PD%C3%97LGD%C3%97EAD-6A4C93?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Staging-3%20Tier-AA4465?style=flat-square"/>
+      <br/><br/>
+      <a href="your-repo-link-here"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Credit Risk Model Validation Framework</h3>
+      <p>Ongoing model performance and stability monitoring: ROC-AUC, KS, Gini tracking, PSI/CSI drift detection, and backtesting of predicted PD vs. actual bad rate.</p>
+      <img src="your-repo-link-here/raw/main/results/psi_drift.png" width="100%" alt="PSI Drift"/>
+      <br/>
+      <img src="https://img.shields.io/badge/PSI-Monitoring-2E5266?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Backtesting-Predicted%20vs%20Actual-1E3A5F?style=flat-square"/>
+      <br/><br/>
+      <a href="your-repo-link-here"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Credit Portfolio MIS</h3>
+      <p>46-column credit portfolio management information system covering vintage analysis, delinquency buckets, recovery ledgers, and macro overlay reporting.</p>
+      <img src="your-repo-link-here/raw/main/results/portfolio_dashboard.png" width="100%" alt="Portfolio Dashboard"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SQL-Vintage%20Analysis-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <br/><br/>
+      <a href="your-repo-link-here"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
